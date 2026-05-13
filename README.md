@@ -1,4 +1,4 @@
-# 陈心悦个人主页
+# 个人主页
 
 这是一个可直接用于 GitHub Pages 的静态个人主页，基于简历内容整理为 Technical Writer / Localization Specialist 方向的作品集入口。
 
