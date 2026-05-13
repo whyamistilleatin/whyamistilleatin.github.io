@@ -238,7 +238,7 @@ window.siteContent = {
     guideLabel: "Start Here",
     guideTitle: "先阅读作品集 README",
     guideText:
-      "README 说明了三个项目的整体定位、文件结构、查看顺序和作品来源，适合作为作品集入口。",
+      "README 说明了三个项目的整体定位、文件结构、查看顺序和作品来源。",
     guideLink: "打开 README",
 
     projects: [
@@ -260,7 +260,7 @@ window.siteContent = {
       },
       {
         meta: ["中文 · Markdown", "Self-directed"],
-        title: "Markdown Pre-translation Processing Guide",
+        title: "Markdown 技术文档基础译前处理指引",
         text:
           "一份中文流程文档，用于说明 Markdown 技术文档导入 CAT 工具前的基础译前处理。内容结合本地化工作流实践和泛化示例整理，不包含客户或保密项目内容。",
         link: "查看作品",
